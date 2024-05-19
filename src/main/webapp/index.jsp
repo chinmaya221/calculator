@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="Blue">
 
-<h1 style="text_align=center">Calculator - by Prashant Beniwal for Intellipaat - Mar-2024!!!!!</h1>
+<h1 style="text_align=center">Calculator - by Chinmaya Deo for Intellipaat - May-2024!!!!!</h1>
 <form action="firstHomePage" method="get">
 <label>First number:</label>
 <input id="f1" type="text" name="n1" />
